@@ -1,12 +1,46 @@
-- 👋 Hi, I’m @ZipherCyprex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ZipherCyprex/ZipherCyprex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                                                             ~?                                     
+                                                            J&                                      
+                                                           B@^                                      
+                                                         ^&@5                                       
+                                                        J@@&                                        
+                                                      .B@@@~                                        
+                                                     ^@&B@P                                         
+                                                    Y@B^@@                  .7                      
+                                                  .#@? B@~                 ^&:                      
+                                                 ~@@: 7@G                 Y@?                       
+                                                5@B  .@@                .#@#                        
+                                              .&@?   B@~               ~@@@.                        
+                                             ~@&:   !@G               5@@@?                         
+                                            5@G    .@@.             .#@@@#                          
+                                          .&@7     B@!             !@@@@@.                          
+                                         !@&:     !@G             P@@@@@J                           
+                                     ..:G@P       @@!..          .!7J5GP                            
+                      ..^~!?J5PGB##&####G~        !GB##&##BPY?!~:.                                  
+      ...:^~7JYPGB######BGP5J7!~:..                     .:^!?YPG#####BG5J7~^..                      
+ :~JPB&@@@@@@@&GY!^:.                                             .^7YG&@@@@@@&#GY7^.               
+        .:^~7J5GB####BGPYJ!^:.                      .::~!?Y5GBB#####BGPY?7~^:..                     
+                    .:~!?YPB###&#BGJ        .YGB######BGP5J7!^:.                                    
+                                .:@@^      ~@@!^:.               ..                                 
+                                 7@P      P@G      ..:~!?J5GB#&&@@@P~^..                            
+                                .@@     .&@7    P@@@@@@@@@@@@@@@@@@@@@@@@&&BG5J7~^..                
+                  ..:^~!7J5Y    #@~    !@&.   :&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BG5J7~^:..   
+                 .^!J5G#&@@?   ?@G    G@P    ?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#G5?~: 
+                              .@@   :&@!   .B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#BGPY?7~^:..          
+                              #@~  ?@&.    ^Y5GB#&@@@@@@@@@@@@&&#BG5J?!~:..                         
+                             ?@P  B@5            ?@@@@@@@@@@&!                                      
+                            .@& :@@~            .@@@@@@@@@@P~!7                                     
+                            #@~?@#.             #@@@@@@@@@!!!7.                                     
+                           ?@#B@J              ?@@@@@@@@B^!J7:                                      
+                          .@@@@^              .@@@@@@@@Y^Y7.                                        
+                          #@@G                #@@@@@@&^.7J:                                         
+                         ?@@?                J@@@@@@B   !:                                          
+                        .@&:                .@@@@@@?                                                
+                        #G                  #@@@@&:                                                 
+                       77                  J@@@@P                                                   
+                       .                  :@@@@!                                                    
+                                          #@@#.                                                     
+                                         J@@5                                                       
+                                        :@@~                                                        
+                                        &#.                                                         
+                                       YY                                                           
+                                      .^                                                            
